@@ -1,0 +1,46 @@
+* {
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+
+    font-style: italic;
+    font-weight: bold;
+    color:rgb(82, 64, 41);
+    text-decoration: underline;
+    text-align: center;
+    font-size:50px;
+
+}
+
+table {
+    background-color: antiquewhite;
+    width: 80%;
+    padding: 2rem 0rem;
+    
+    
+}
+
+td,tr{
+    width: 50vw;
+    padding: 20%;
+    
+}
+
+
+p {
+    font-size:1vw;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-style:italic;
+    font-weight: bold;
+    padding:5%;
+}
+
+img {
+    width: 40vw;
+    padding:5%;
+
+}
+

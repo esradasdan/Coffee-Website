@@ -1,0 +1,30 @@
+* {
+    background-color:antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    
+}
+
+img {
+    width:10vw;
+    height: 10vw;
+    border-radius: 15px;
+}
+
+div {
+    background-color: antiquewhite;
+}
+.container {
+    padding: 2rem 0rem;
+    background-color: antiquewhite;
+    
+}
+
+td {
+    font-style: italic;
+    font-size: 1.2vw;
+}
+
+pre {
+    background-color: antiquewhite;
+}

@@ -1,0 +1,29 @@
+
+
+* {
+    background-color:antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    
+}
+
+
+
+.container {
+    padding: 2rem 0rem;
+    background-color: antiquewhite;
+}
+  
+h4 {
+margin: 2rem 0rem 1rem;
+background-color: antiquewhite;
+}
+  
+
+td, th {
+    vertical-align: middle;
+    
+    
+}
+
+
