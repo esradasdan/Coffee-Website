@@ -1,0 +1,10 @@
+*.jpg
+*.png
+
+.vscode/*
+!.vscode/setting.json
+!.vscode/launch.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+
+*.log
