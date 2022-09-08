@@ -1,1 +1,1 @@
-This is a basic coffee site I developed with html and css
+This is a coffee themed site that I developed with HTML and CSS.
